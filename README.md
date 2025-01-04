@@ -45,8 +45,8 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/AuthenticationService.git
-cd AuthenticationService
+git clone https://github.com/aligoren/dotnet-authservice-with-cursor.git
+cd dotnet-authservice-with-cursor
 ```
 
 2. Install dependencies:
@@ -193,7 +193,7 @@ SQLite database schema:
 └── AspNetUserTokens
 ```
 
-## 🤝 Testing
+## 🧪 Testing
 
 The project includes comprehensive unit tests for all components:
 
@@ -247,21 +247,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 Made with ❤️ by Your Team
-</div>
-
-Access the API documentation at:
-```
-https://localhost:7001/swagger
-```
-
-## Security Features
-
-- Strong password policy
-  - Minimum 8 characters
-  - At least 1 uppercase letter
-  - At least 1 lowercase letter
-  - At least 1 number
-  - At least 1 special character
-- Token-based authorization
-- HTTPS requirement
-- Token expiration 
+</div> 
